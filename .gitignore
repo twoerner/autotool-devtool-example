@@ -50,3 +50,43 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# autoreconf -i
+Makefile.in
+aclocal.m4
+autom4te.cache/
+cfg/Makefile.in
+cfg/compile
+cfg/config.guess
+cfg/config.h.in
+cfg/config.sub
+cfg/depcomp
+cfg/install-sh
+cfg/libtool.m4
+cfg/ltmain.sh
+cfg/ltoptions.m4
+cfg/ltsugar.m4
+cfg/ltversion.m4
+cfg/lt~obsolete.m4
+cfg/missing
+configure
+lib/Makefile.in
+src/Makefile.in
+
+# ./configure
+Makefile
+cfg/Makefile
+cfg/config.h
+cfg/stamp-h1
+config.log
+config.status
+lib/.deps/
+lib/Makefile
+libtool
+src/.deps/
+src/Makefile
+
+# make
+lib/.libs/
+src/.libs/
+src/autotool-devtool-example
