@@ -10,6 +10,7 @@
 int
 main (void)
 {
+	/* a meaningful comment */
 	printf("Hello, world!\n");
 	printf("version: %s\n", VERSION);
 	lib_function();

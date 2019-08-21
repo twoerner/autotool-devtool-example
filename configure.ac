@@ -1,7 +1,7 @@
 dnl Copyright (C) 2019  Trevor Woerner <Trevor Woerner <twoerner@gmail.com>>
 
 AC_PREREQ(2.57)
-AC_INIT([Autotool Devtool Example], 1.0.0, twoerner@gmail.com, autotool-devtool-example)
+AC_INIT([Autotool Devtool Example], 1.0.1, twoerner@gmail.com, autotool-devtool-example)
 AC_CONFIG_SRCDIR(src/autotool-devtool-example.c)
 AC_CONFIG_AUX_DIR(cfg)
 AM_INIT_AUTOMAKE([foreign no-dist-gzip dist-bzip2 1.9])
